@@ -5,6 +5,7 @@
 This project is a simple Employee Management System developed using **PHP, MySQL, and Bootstrap**.
 The system allows users to manage employee information including adding, updating, and deleting records.
 
+
 ## Features
 
 * Insert new employee data
