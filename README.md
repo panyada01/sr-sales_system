@@ -53,4 +53,19 @@ A demo video showing how to **Insert, Update, and Delete** employee data is incl
 
 ---
 
+Employee_Management_System
+│
+├── index.php
+├── README.md
+├── sales_order_db.sql
+│
+├── database
+│   └── db.php
+│
+├── css
+│   └── style.css
+│
+└── js
+    └── script.js
+
 Developer: Panyada
